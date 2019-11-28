@@ -1,0 +1,45 @@
+body {
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+}
+
+.picture-margin-sm {
+  padding-top: 60px;
+}
+
+.picture-margin-lg {
+  padding-top: 20px;
+}
+
+/*.name-margin-lg {
+  padding-top: 15px
+}*/
+
+.name-margin-sm {
+  padding-top: 
+}
+
+#name-style-lg {
+  font-size: 900%;
+  color: #00BFFF;
+  /*font-family: 'Dosis', sans-serif;*/
+  /*font-family: 'Poiret One';*/
+  font-family: 'Gloria Hallelujah';
+  font-weight: 900;
+  letter-spacing: -1px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#face-picture-lg{
+    width:180px;
+    height: auto;
+}
+
+#face-picture-sm{
+    width:150px;
+    height: auto;
+}
+
+.center {
+  text-align: center;
+}

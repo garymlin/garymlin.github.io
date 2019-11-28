@@ -1,0 +1,95 @@
+body {
+  background: url("../images/background.jpg") ;
+  background-size: cover;
+  /*background-position: ;*/
+}
+
+.name{
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 85;
+    text-align:center;
+    color: #444444;
+    /*width: 50%;
+    margin: 0 auto; */
+}
+
+.name:hover{
+    color: #565656;
+}
+
+.title{
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 25;
+    text-align:center;
+    color: #696969;
+    /*width: 50%;
+    margin: 0 auto; */
+}
+
+.icon-list{
+    padding:0px;
+}
+
+.icons{
+    text-align: center;
+    font-size: 43;
+    letter-spacing: 6;
+    text-decoration: none;
+}
+
+.location-subtitle{
+    padding-top: 16.5%;
+}
+
+.location{
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 15;
+    text-align:center;
+    color: #3d3d3d;
+}
+.location:hover{
+    color: #900020;
+    cursor: default;
+}
+
+a, a:visited, a:active, a:focus{
+    color: #8e8e8e;
+    text-decoration: none;
+}
+
+
+.linkedin:hover{
+    color: #007bb6;
+    text-decoration: none;
+}
+
+.facebook:hover{
+    color: #44619d;
+    text-decoration: none;
+}
+
+.instagram:hover{
+    color: #a57b5e;
+    text-decoration: none;
+}
+
+.resume:hover{
+    color: #FB607F;
+    text-decoration: none;
+}
+
+.github:hover{
+    color: #b7e9f7;
+    text-decoration: none;
+}
+
+.name-box{
+    padding-bottom: 2%;
+}
+
+.top{
+    padding-top: 14%;
+}
